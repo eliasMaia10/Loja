@@ -1,1 +1,1 @@
-"# Loja-de-Varejo"  
+"# Loja"  
